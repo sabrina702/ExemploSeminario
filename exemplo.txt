@@ -1,0 +1,2 @@
+Olá, este é um teste de leitura em Dart.
+O finally sempre será executado!
