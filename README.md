@@ -77,4 +77,7 @@ Este README explica passo a passo como funciona a simulação de abertura e fech
 
 ---
 
-Este README agora está formatado para ser claro e agradável visualmente no GitHub.
+## Como Rodar o Programa
+
+1. Abra o terminal.
+2. e digite `DART carregandoRecurso.dart`
