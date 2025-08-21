@@ -33,9 +33,6 @@ Este README explica passo a passo como funciona a simulação de abertura e fech
 * `print('Conteúdo do arquivo: $conteudo');`
   Mostra o conteúdo no console.
 
-* `throw Exception('Erro simulado!');`
-  Gera um erro proposital para mostrar que `finally` será executado.
-
 * `} catch (e) {`
   Captura qualquer erro ocorrido.
 
